@@ -28,3 +28,4 @@ blinker==1.8.2
 importlib-metadata==8.2.0
 MarkupSafe==2.1.5
 pyngrok
+flask-cors
